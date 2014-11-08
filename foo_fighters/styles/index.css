@@ -1,0 +1,10 @@
+body {background-color:#000000; color:#FFFFFF; font-family:arial; background-image:url("images/grohl_bkg.jpg"),url("images/schiflett_bkg.jpg"); background-size:30%, 25%; background-repeat:no-repeat, no-repeat; background-position:10% 22%, 90% 28%; background-attachment:fixed, fixed}
+h1 {color:#CC0000; font-family:lucida sans unicode; font-size:300%; line-height:40px}
+a,h2 {color:#CC0000}
+h4 {color:#CC0000; margin-left:2em}
+p {margin-left:2em}
+dl {margin-left:2em}
+dt {color:#33CCFF; font-family:courier; font-size:110%; margin-left:2em}
+dd {margin-left:4em}
+li {margin-left:2em}
+footer {position:fixed; height:50px; bottom:0px; margin-bottom:0px; width:100%; background-color:#000000}

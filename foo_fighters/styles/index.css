@@ -8,6 +8,9 @@ body {
 	background-position: 10% 22%, 90% 28%;
 	background-attachment: fixed, fixed;
 }
+nav {
+	font-weight: bold;
+}
 h1 {
 	color: #CC0000;
 	font-family: lucida sans unicode;

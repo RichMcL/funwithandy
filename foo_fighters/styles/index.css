@@ -8,6 +8,22 @@ body {
 	background-position: 10% 22%, 90% 28%;
 	background-attachment: fixed, fixed;
 }
+#header {
+	text-align: center;
+}
+#header img {
+	width: 20%;
+	height: 20%;
+}
+#header h1 {
+	text-transform: uppercase;
+	border-bottom: 2px solid #FFFFFF;
+	padding-bottom: 15px;
+	margin-bottom: 25px;
+}
+#header a {
+	text-transform: uppercase;
+}
 nav {
 	font-weight: bold;
 }
